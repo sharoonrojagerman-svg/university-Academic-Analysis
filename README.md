@@ -1,5 +1,5 @@
 # University Academic Intelligence & Institutional Analytics
-## Executive Summary
+## 📌Executive Summary
   This project presents an end-to-end Institutional Analytics System developed to transform fragmented academic data into strategic intelligence. By utilizing advanced MySQL techniques, the system audits student performance, evaluates faculty effectiveness, and identifies operational bottlenecks. The primary goal is to provide university administrators with data-driven evidence to improve retention rates and resource allocation.
 
   🛠 Tools Used
